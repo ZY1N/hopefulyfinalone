@@ -1,0 +1,4 @@
+001; StudentName1; testStudent01; password590; id1: A, id2: A
+002; StudentName1; testStudent02; password590; id4: B
+003; StudentName1; testStudent03; password590; id3: A
+001; StudentName1; testStudent04; password590; CIS191: A, CIS320: A

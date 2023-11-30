@@ -1,0 +1,7 @@
+id1; coursename1; profname1; MW; 16:30; 18:00; 1
+id2; coursename2; profname2; M; 17:00; 20:00; 2
+id3; coursename3; profname2; MW; 16:30; 18:00; 1
+id4; coursename4; profname2; T; 16:30; 18:00; 1
+id5; coursename4; profname2; T; 16:30; 18:00; 10
+id6; coursename4; profname2; T; 16:30; 18:00; 10
+id7; coursename4; profname2; T; 16:30; 18:00; 10
